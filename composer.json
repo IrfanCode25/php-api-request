@@ -1,5 +1,5 @@
 {
-    "name": "fancode/php-api-request",
+    "name": "fancoders/php-api-request",
     "description": "package php yang digunakan untuk memudahkan proses http request untuk kebutuhan api integration",
     "keywords": [
         "php-api-request"
