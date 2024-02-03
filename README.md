@@ -5,7 +5,7 @@ package php yang digunakan untuk memudahkan proses http request untuk kebutuhan 
 ## Instalation
 
 ```bash
-  composer require fancode/php-api-request
+  composer require fancoders/php-api-request
 ```
 
 ## Usage
