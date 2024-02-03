@@ -1,0 +1,24 @@
+{
+    "name": "fancode/php-api-request",
+    "description": "package php yang digunakan untuk memudahkan proses http request untuk kebutuhan api integration",
+    "keywords": [
+        "php-api-request"
+    ],
+    "homepage": "https://github.com/IrfanCode25/php-api-request",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fancode\\PhpApiRequest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Irfan",
+            "email": "irfan25061997m@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
